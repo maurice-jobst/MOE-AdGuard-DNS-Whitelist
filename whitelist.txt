@@ -1,226 +1,4 @@
-# Instagram
-@@||cdninstagram.com^$important
-@@||instagram.com^$important
-@@||instagram.c10r.facebook.com^$important
-# Joyn TV Stream
-@@||yospace.com^$important
-# Google
-@@||0.client-channel.google.com^$important
-@@||2.android.pool.ntp.org^$important
-@@||android.clients.google.com^$important
-@@||clients1.google.com^$important
-@@||clients2.google.com^$important
-@@||clients3.google.com^$important
-@@||clients4.google.com^$important
-@@||clients5.google.com^$important
-@@||clients6.google.com^$important
-@@||cse.google.com^$important
-@@||googleapis.com^$important
-@@||gstatic.com^$important
-@@||manifest.googlevideo.com^$important
-@@||redirector.googlevideo.com^$important
-@@||video-stats.l.google.com^$important
-@@||geo3.ggpht.com^$important
-@@||yt3.ggpht.com^$important
-# Youtube
-@@||s.youtube.com^$important
-@@||s2.youtube.com^$important
-@@||youtu.be^$important
-@@||youtube-nocookie.com^$important
-@@||i.ytimg.com^$important
-@@||i1.ytimg.com^$important
-@@||s.ytimg.com^$important
-# Plex
-@@||app.plex.tv^$important
-@@||cpms.spop10.ams.plex.bz^$important
-@@||cpms35.spop10.ams.plex.bz^$important
-@@||dashboard.plex.tv^$important
-@@||meta-db-worker02.pop.ric.plex.bz^$important
-@@||meta.plex.bz^$important
-@@||meta.plex.tv^$important
-@@||my.plexapp.com^$important
-@@||nine.plugins.plexapp.com^$important
-@@||node.plexapp.com^$important
-@@||o1.email.plex.tv^$important
-@@||o2.sg0.plex.tv^$important
-@@||proxy.plex.bz^$important
-@@||proxy.plex.tv^$important
-@@||proxy02.pop.ord.plex.bz^$important
-@@||pubsub.plex.bz^$important
-@@||pubsub.plex.tv^$important
-@@||staging.plex.tv^$important
-@@||status.plex.tv^$important
-@@||tvdb2.plex.tv^$important
-@@||tvthemes.plexapp.com^$important
-# Github
-@@||github.com^$important
-@@||github.io^$important
-@@||raw.githubusercontent.com^$important
-# Cloudflare
-@@||cdn.cloudflare.net^$important
-@@||cdnjs.cloudflare.com^$important
-# Dropbox
-@@||dl.dropbox.com^$important
-@@||dl.dropboxusercontent.com^$important
-@@||ns1.dropbox.com^$important
-@@||ns2.dropbox.com^$important
-# Twitter
-@@||twimg.com^$important
-@@||twitter.com^$important
-@@||t.co^$important
-# Sonarr TV Soft
-@@||apt.sonarr.tv^$important
-@@||download.sonarr.tv^$important
-@@||forums.sonarr.tv^$important
-@@||services.sonarr.tv^$important
-@@||skyhook.sonarr.tv^$important
-# Ipify.org
-@@||api.ipify.org^$important
-# Buffer CDN 
-@@||bufferapp.com^$important
-# Giphy.com
-@@||giphy.com^$important
-# XKCD
-@@||imgs.xkcd.com^$important
-#Bitly URL Shortener
-@@||j.mp^$important
-# Jquery
-@@||jquery.com^$important
-# Jsdelivr.net Open Source CDN
-@@||jsdelivr.net^$important
-# Aliexpress.com
-@@||login.aliexpress.com^$important
-# Pinterest
-@@||pinterest.com^$important
-# Placehold it image soft
-@@||placehold.it^$important
-@@||placeholdit.imgix.net^$important
-# Shopify.com eCommerce Software
-@@||v.shopify.com^$important
-@@||s.shopify.com^$important
-# Wordpress
-@@||wp.com^$important
-@@||wordpress.com^$important
-# Themoviedb.com
-@@||themoviedb.com^$important
-# Thetvdb.com
-@@||thetvdb.com^$important
-# Tinyurl Shortener
-@@||tinyurl.com^$important
-# Wikipedia
-@@||wikipedia.org^$important
-# Microsoft
-@@||xbox.ipv6.microsoft.com^$important
-@@||xboxexperiencesprod.experimentation.xboxlive.com^$important
-@@||xflight.xboxlive.com^$important
-@@||xkms.xboxlive.com^$important
-@@||xsts.auth.xboxlive.com^$important
-@@||ui.skype.com^$important
-@@||title.auth.xboxlive.com^$important
-@@||title.mgt.xboxlive.com^$important
-@@||t0.ssl.ak.dynamic.tiles.virtualearth.net^$important
-@@||t0.ssl.ak.tiles.virtualearth.net^$important
-@@||win10.ipv6.microsoft.com^$important
-@@||sharepoint.com^$important
-@@||pricelist.skype.com^$important
-@@||office.com^$important
-@@||office.net^$important
-@@||office365.com^$important
-@@||officeclient.microsoft.com^$important
-@@||notify.xboxlive.com^$important
-@@||nexusrules.officeapps.live.com^$important
-@@||microsoftonline.com^$important
-@@||licensing.xboxlive.com^$important
-@@||live.com^$important
-@@||msftncsi.com^$important
-@@||i.s-microsoft.com^$important
-@@||help.ui.xboxlive.com^$important
-@@||c.s-microsoft.com^$important
-@@||apps.skype.com^$important
-@@||attestation.xboxlive.com^$important
-@@||cert.mgt.xboxlive.com^$important
-@@||clientconfig.passport.net^$important
-@@||ctldl.windowsupdate.com^$important
-@@||dev.virtualearth.net^$important
-@@||device.auth.xboxlive.com^$important
-@@||ecn.dev.virtualearth.net^$important
-@@||def-vef.xboxlive.com^$important
-@@||eds.xboxlive.com^$important
-@@||geo-prod.do.dsp.mp.microsoft.com^$important
-@@||displaycatalog.mp.microsoft.com^$important
-@@||dl.delivery.mp.microsoft.com^$important
-@@||1drv.com^$important
-@@||aspnetcdn.com^$important
-# Netflix
-@@||api-global.netflix.com^$important
-@@||ichnaea.netflix.com^$important
-@@||appboot.netflix.com^$important
-@@||secure.netflix.com^$important
-# Samsung TV network issue
-@@||cdn.samsungcloudsolution.com^$important
-# Spotify
-@@||open.spotify.com^$important
-@@||mobile-ap.spotify.com^$important
-@@||apresolve.spotify.com^$important
-@@||upgrade.scdn.com^$important
-@@||market.spotify.com^$important
-@@||spclient.wg.spotify.com^$important
-@@||ap.spotify.com^$important
-@@||audio-ake.spotify.com.edgesuite.net^$important
-@@||audio4-ak.spotify.com.edgesuite.net^$important
-# Amazon Prime Video and Amazon CDN
-@@||eu.api.amazonvideo.com^$important
-@@||device-metrics-us.amazon.com^$important
-@@||fls-eu.amazon.com^$important
-@@||fls-na.amazon.com^$important
-@@||cloudfront.net^$important
-@@||device-metrics-us-2.amazon.com^$important
-@@||images-amazon.com^$important
-@@||amazonaws.com^$important
-# Apple
-@@||gdmf.apple.com.akadns.net^$important
-@@||apple.com^$important
-@@||icloud.com^$important
-@@||itunes.com^$important
-@@||mzstatic.com^$important
-@@||apple-dns.net^$important
-@@||cdn-apple.com^$important
-@@||iphone-ld.origin-apple.com.akadns.net^$important
-@@||ax.phobos.apple.com.edgesuite.net^$important
-@@||init-p01md-lb.push-apple.com.akadns.net^$important
-@@||uts-api-cdn.itunes-apple.com.akadns.net^$important
-@@||np-edge-cdn.itunes-apple.com.akadns.net^$important
-@@||iadsdk.apple.com.akadns.net^$important
-@@||play.itunes.apple.com.edgesuite.net^$important
-# Lets Encrypt
-@@||letsencrypt.org^$important
-# Spiegel.de
-@@||sni.cdn.www.spiegel.de.c.footprint.net^$important
-@@||spiegel.de^$important
-# Disney+ Streaming
-@@||cdn.registerdisney.go.com^$important
-@@||dssott.com^$important
-@@||disneyplus.com^$important
-@@||disney-plus.net^$important
-@@||cws.conviva.com^$important
-@@||disneyplus.bn5x.net^$important
-@@||disney-portal.my.onetrust.com^$important
-@@||bamgrid.com^$important
-@@||disneyplus.com.ssl.sc.omtrdc.net^$important
-@@||cws-sjc2.conviva.com^$important
-@@||cws-iad1.conviva.com^$important
-@@||vod-l3c-eu-north-2.media.dssott.com.c.footprint.net^$important
-@@||disney.demdex.net^$important
-# DynDns Provider
-@@||dyndns.variomedia.de^$important
-# Firefox Browser
-@@||detectportal.firefox.com^$important
-# Reddit
-@@||reddit.com^$important
-# WhatsApp
-@@||whatsapp.net^$important
-@@||whatsapp.com^$important
-# MISC
+//updated on Sept 2020
 0.client-channel.google.com
 1drv.com
 2.android.pool.ntp.org
@@ -412,3 +190,215 @@ continuum.dds.microsoft.com
 connectivitycheck.gstatic.com
 connectivitycheck.android.com
 www.msftconnecttest.com
+// Aug 2020
+# Amazon Alexa and Amazon Shopping app
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
+
+# Amazon Kindle
+cognito-identity.us-east-1.amazonaws.com
+unagi-na.amazon.com
+ocsp.rootg2.amazontrust.com
+det-ta-g7g.amazon.com
+todo-ta-g7g.amazon.com
+device-messaging-na.amazon.com
+s3-eu-west-1.amazonaws.com
+us-east-1.amazonaws.com
+
+# Amazon AWS (???) - whitelist to make Kryptonite work
+sqs.us-east-1.amazonaws.com
+
+# Bild.de
+acdn.adnxs.com
+cdn1.smartadserver.com
+ec-ns.sascdn.com
+
+# DirectTV Now
+js.maxmind.com
+directvnow.com
+directvapplications.hb.omtrdc.net
+s.zkcdn.net
+
+# Facebook
+creative.ak.fbcdn.net
+external-lhr0-1.xx.fbcdn.net
+external-lhr10-1.xx.fbcdn.net
+external-lhr1-1.xx.fbcdn.net
+external-lhr2-1.xx.fbcdn.net
+external-lhr3-1.xx.fbcdn.net
+external-lhr4-1.xx.fbcdn.net
+external-lhr5-1.xx.fbcdn.net
+external-lhr6-1.xx.fbcdn.net
+external-lhr7-1.xx.fbcdn.net
+external-lhr8-1.xx.fbcdn.net
+external-lhr9-1.xx.fbcdn.net
+fbcdn-creative-a.akamaihd.net
+graph.facebook.com
+graph.instagram.com
+instagram.c10r.facebook.com
+scontent-lhr3-1.xx.fbcdn.net
+scontent.xx.fbcdn.net
+scontent.fgdl5-1.fna.fbcdn.net
+facebook.com
+facebook.net
+fbcdn.net
+cdn.fbsbx.com
+edge-mqtt.facebook.com
+0-edge-chat.facebook.com
+1-edge-chat.facebook.com
+2-edge-chat.facebook.com
+3-edge-chat.facebook.com
+4-edge-chat.facebook.com
+5-edge-chat.facebook.com
+6-edge-chat.facebook.com
+edge-chat.facebook.com
+mqtt-mini.facebook.com
+
+# Fix - Images not loading on www.thecut.com
+pixel.nymag.com
+
+# GeForce Experience
+events.gfe.nvidia.com
+gfwsl.geforce.com
+
+# GTA Online telemetry. Whitelist this domain to prevent the game from crashing.
+prod.telemetry.ros.rockstargames.com
+
+# Host files
+hosts-file.net
+raw.githubusercontent.com
+v.firebog.net
+hostsfile.org
+someonewhocares.org
+hostsfile.mine.nu
+winhelp2002.mvps.org
+sysctl.org
+pgl.yoyo.org
+zeustracker.abuse.ch
+
+# Images not loading on aliexpress.com
+ae01.alicdn.com
+
+# Jackbox.tv
+www.google-analytics.com
+google-analytics.com
+ssl.google-analytics.com
+
+# Lotus talk
+lotustalk.com
+www.lotustalk.com
+
+# National Express, UK (nationalexpress.com/en) - Unable to book journey
+cdns.gigya.com
+
+# Netflix - Domains needed for netlix to work correctly
+api-global.netflix.com
+appboot.netflix.com
+secure.netflix.com
+
+# Nvidia updates
+ota-downloads.nvidia.com
+
+# Pluto.tv
+images.pluto.tv
+stitcher.pluto.tv
+siloh.pluto.tv
+silo.pluto.tv
+cdn-mobile.api.pluto.tv
+api.pluto.tv
+players.pluto.tv
+
+# Roku HGTV app: Failed to play previous episodes
+dcs-vod.apis.anvato.net
+
+# Roku TNT app: Failed to play videos
+z.cdn.turner.com
+manifest.auditude.com
+
+# Refersion.com (affiliate marketing)
+cdn.refersion.com
+refersion.com
+www.refersion.com
+
+# Roku TV CW and NBC app
+cwtv-mrss-akamai.cwtv.com
+cwtv-prod-elb.digitalsmiths.net
+redirector.googlevideo.com
+
+# Samsung TV's Amazon Prime Video app
+time.samsungcloudsolution.com
+
+# Samsung smart TV's network issue
+cdn.samsungcloudsolution.com
+
+# SBS Online videos not playing
+www.sbs.com.au
+sbs.com.au
+api.sbs.com.au
+media.sbs.com.au
+resources.sbs.com.au
+videocdn-sbs.akamaized.net
+sbsvodns-vh.akamaihd.net
+link.theplatform.com
+e7065.e2.akamaiedge.net
+a463.w10.akamai.net
+a790.w16.akamai.net
+
+# Share buttons on websites
+dsms0mj1bbhn4.cloudfront.net
+shareaholic.com
+
+# Sky Go (skygo.sky.de)
+assets.adobedtm.com
+
+# Spotify premium with Denon Heos speakers
+# https://github.com/anudeepND/whitelist/issues/93
+mobile-ap.spotify.com
+apresolve.spotify.com
+upgrade.scdn.com
+market.spotify.com
+spclient.wg.spotify.com
+audio-ake.spotify.com.edgesuite.net
+
+# Target's Weekly Ads
+weeklyad.target.com
+m.weeklyad.target.com
+weeklyad.target.com.edgesuite.net
+
+# UK University application website
+# https://github.com/anudeepND/whitelist/issues/30
+track.ucas.com
+
+# URL shorteners
+adf.ly
+www.adf.ly
+bit.ly
+www.bit.ly
+goo.gl
+ow.ly
+www.ow.ly
+amzn.to
+amzn.com
+
+# Videos not playing on  arstechnica/wired/vogue/newyorker
+# Note: ads before videos may appear after whitelisting this domain
+d2c8v52ll5s99u.cloudfront.net
+
+# Videos not playing on www.jacquielawson.com
+f1.media.brightcove.com
+
+# WatchESPN
+fpdownload.adobe.com
+entitlement.auth.adobe.com
+livepassdl.conviva.com
+
+# Xbox Achievements and game stats sync
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+
+# streamelements.com (Blocked by Pi-hole regex)
+stats.streamelements.com
+
+# Adobe licence verification endpoints
+lm.licenses.adobe.com
+activate.adobe.com
