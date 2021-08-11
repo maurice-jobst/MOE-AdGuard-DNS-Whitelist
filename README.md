@@ -1,1 +1,1 @@
-# AdGuard-Whitelist
+# MOE's AdGuard-Whitelist
