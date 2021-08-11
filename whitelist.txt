@@ -1,119 +1,28 @@
-# Random List - audited 2020
-0.client-channel.google.com
-1drv.com
+# Random Domains - last audited Aug 2021
 2.android.pool.ntp.org
-amazonaws.com
 android.clients.google.com
 appleid.apple.com
-apps.skype.com
-appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
-attestation.xboxlive.com
-ax.phobos.apple.com.edgesuite.net
-c.s-microsoft.com
-cdn.cloudflare.net
-cdnjs.cloudflare.com
-cert.mgt.xboxlive.com
-clientconfig.passport.net
 clients1.google.com
 clients2.google.com
 clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
-cse.google.com
 ctldl.windowsupdate.com
-d2c8v52ll5s99u.cloudfront.net
-d2gatte9o95jao.cloudfront.net
-dashboard.plex.tv
-def-vef.xboxlive.com
-device.auth.xboxlive.com
-displaycatalog.mp.microsoft.com
 dl.delivery.mp.microsoft.com
-dl.dropbox.com
-dl.dropboxusercontent.com
-eds.xboxlive.com
 fonts.gstatic.com
-g.live.com
-geo-prod.do.dsp.mp.microsoft.com
-geo3.ggpht.com
 giphy.com
 github.com
 github.io
-googleapis.com
-gstatic.com
-help.ui.xboxlive.com
-imgs.xkcd.com
 instantmessaging-pa.googleapis.com
-jquery.com
-lastfm-img2.akamaized.net
-licensing.xboxlive.com
-live.com
 login.live.com
-login.microsoftonline.com
-manifest.googlevideo.com
-notify.xboxlive.com
-ns1.dropbox.com
-ns2.dropbox.com
-o1.email.plex.tv
-o2.sg0.plex.tv
-ocsp.apple.com
-office.com
-office.net
-office365.com
 officeclient.microsoft.com
-om.cbsi.com
-onedrive.live.com
-outlook.live.com
 outlook.office365.com
 raw.githubusercontent.com
-redirector.googlevideo.com
-s.gateway.messenger.live.com
 s.youtube.com
-s.ytimg.com
-s1.wp.com
 s2.youtube.com
-s3.amazonaws.com
-spclient.wg.spotify.com
-ssl.p.jwpcdn.com
-staging.plex.tv
-status.plex.tv
-t.co
-t0.ssl.ak.dynamic.tiles.virtualearth.net
-t0.ssl.ak.tiles.virtualearth.net
-tawk.to
-tedcdn.com
-themoviedb.com
-thetvdb.com
-tinyurl.com
-title.auth.xboxlive.com
-title.mgt.xboxlive.com
-traffic.libsyn.com
-twimg.com
-ui.skype.com
-video-stats.l.google.com
-videos.vidible.tv
-widget-cdn.rpxnow.com
 win10.ipv6.microsoft.com
-wp.com
-ws.audioscrobbler.com
-www.dataplicity.com
-www.googleapis.com
-www.msftncsi.com
-www.no-ip.com
-www.youtube-nocookie.com
-xbox.ipv6.microsoft.com
-xboxexperiencesprod.experimentation.xboxlive.com
-xflight.xboxlive.com
-xkms.xboxlive.com
-xsts.auth.xboxlive.com
-youtu.be
-youtube-nocookie.com
-yt3.ggpht.com
-gfwsl.geforce.com
-appspot-preview.l.google.com
-vidtech.cbsinteractive.com
-continuum.dds.microsoft.com
 connectivitycheck.gstatic.com
 connectivitycheck.android.com
 
@@ -122,25 +31,7 @@ connectivitycheck.android.com
 #device-metrics-us.amazon.com
 
 # Amazon Kindle
-cognito-identity.us-east-1.amazonaws.com
-unagi-na.amazon.com
-ocsp.rootg2.amazontrust.com
-det-ta-g7g.amazon.com
-todo-ta-g7g.amazon.com
-device-messaging-na.amazon.com
 s3-eu-west-1.amazonaws.com
-us-east-1.amazonaws.com
-
-# Bild.de
-#acdn.adnxs.com
-#cdn1.smartadserver.com
-#ec-ns.sascdn.com
-
-# DirectTV Now
-#js.maxmind.com
-#directvnow.com
-#directvapplications.hb.omtrdc.net
-#s.zkcdn.net
 
 # Facebook
 #creative.ak.fbcdn.net
@@ -181,21 +72,6 @@ us-east-1.amazonaws.com
 events.gfe.nvidia.com
 gfwsl.geforce.com
 
-# GTA Online telemetry. Whitelist this domain to prevent the game from crashing.
-#prod.telemetry.ros.rockstargames.com
-
-# Host files
-hosts-file.net
-raw.githubusercontent.com
-v.firebog.net
-hostsfile.org
-someonewhocares.org
-hostsfile.mine.nu
-winhelp2002.mvps.org
-sysctl.org
-pgl.yoyo.org
-zeustracker.abuse.ch
-
 # Images not loading on aliexpress.com
 #ae01.alicdn.com
 
@@ -213,13 +89,6 @@ time.samsungcloudsolution.com
 # Samsung smart TV's network issue
 cdn.samsungcloudsolution.com
 
-# Share buttons on websites
-dsms0mj1bbhn4.cloudfront.net
-shareaholic.com
-
-# Sky Go (skygo.sky.de)
-assets.adobedtm.com
-
 # Spotify premium
 mobile-ap.spotify.com
 apresolve.spotify.com
@@ -228,21 +97,6 @@ market.spotify.com
 spclient.wg.spotify.com
 audio-ake.spotify.com.edgesuite.net
 
-# URL shorteners
-adf.ly
-www.adf.ly
-bit.ly
-www.bit.ly
-goo.gl
-ow.ly
-www.ow.ly
-amzn.to
-amzn.com
-
-# Xbox Achievements and game stats sync
-v10.events.data.microsoft.com
-v20.events.data.microsoft.com
-
 # Adobe licence verification endpoints
-lm.licenses.adobe.com
-activate.adobe.com
+#lm.licenses.adobe.com
+#activate.adobe.com
