@@ -1,4 +1,5 @@
 # Random Domains - last audited Aug 2021
+# To be used with a restrictive Blacklo
 2.android.pool.ntp.org
 android.clients.google.com
 appleid.apple.com
@@ -27,13 +28,13 @@ connectivitycheck.gstatic.com
 connectivitycheck.android.com
 
 # Amazon Alexa and Amazon Shopping app
-#device-metrics-us-2.amazon.com
-#device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
 
 # Amazon Kindle
 s3-eu-west-1.amazonaws.com
 
-# Facebook
+# Facebook (fuck those guys...)
 #creative.ak.fbcdn.net
 #external-lhr0-1.xx.fbcdn.net
 #external-lhr10-1.xx.fbcdn.net
@@ -72,7 +73,7 @@ s3-eu-west-1.amazonaws.com
 events.gfe.nvidia.com
 gfwsl.geforce.com
 
-# Images not loading on aliexpress.com
+# Images not loading on aliexpress.com (thx Pooh!)
 #ae01.alicdn.com
 
 # Netflix - Domains needed for netlix to work correctly
