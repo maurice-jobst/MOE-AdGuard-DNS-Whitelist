@@ -1,103 +1,54 @@
-# Random Domains - last audited Aug 2021
-# To be used with a restrictive Blacklo
+0.client-channel.google.com
+1drv.com
 2.android.pool.ntp.org
 android.clients.google.com
 appleid.apple.com
+appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
+attestation.xboxlive.com
+cdn.cloudflare.net
+cdnjs.cloudflare.com
+cert.mgt.xboxlive.com
 clients1.google.com
 clients2.google.com
 clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
+cse.google.com
 ctldl.windowsupdate.com
-dl.delivery.mp.microsoft.com
+def-vef.xboxlive.com
+device.auth.xboxlive.com
+dl.dropbox.com
+dl.dropboxusercontent.com
+eds.xboxlive.com
 fonts.gstatic.com
 giphy.com
 github.com
 github.io
-instantmessaging-pa.googleapis.com
+googleapis.com
+help.ui.xboxlive.com
+licensing.xboxlive.com
+live.com
 login.live.com
+notify.xboxlive.com
+office365.com
 officeclient.microsoft.com
+onedrive.live.com
+outlook.live.com
 outlook.office365.com
 raw.githubusercontent.com
+redirector.googlevideo.com
+res.cloudinary.com
+s.gateway.messenger.live.com
+s.marketwatch.com
 s.youtube.com
-s2.youtube.com
-win10.ipv6.microsoft.com
-connectivitycheck.gstatic.com
-connectivitycheck.android.com
-
-# Amazon Alexa and Amazon Shopping app
-device-metrics-us-2.amazon.com
-device-metrics-us.amazon.com
-
-# Amazon Kindle
-s3-eu-west-1.amazonaws.com
-
-# Facebook (fuck those guys...)
-#creative.ak.fbcdn.net
-#external-lhr0-1.xx.fbcdn.net
-#external-lhr10-1.xx.fbcdn.net
-#external-lhr1-1.xx.fbcdn.net
-#external-lhr2-1.xx.fbcdn.net
-#external-lhr3-1.xx.fbcdn.net
-#external-lhr4-1.xx.fbcdn.net
-#external-lhr5-1.xx.fbcdn.net
-#external-lhr6-1.xx.fbcdn.net
-#external-lhr7-1.xx.fbcdn.net
-#external-lhr8-1.xx.fbcdn.net
-#external-lhr9-1.xx.fbcdn.net
-#fbcdn-creative-a.akamaihd.net
-#graph.facebook.com
-#graph.instagram.com
-#instagram.c10r.facebook.com
-#scontent-lhr3-1.xx.fbcdn.net
-#scontent.xx.fbcdn.net
-#scontent.fgdl5-1.fna.fbcdn.net
-#facebook.com
-#facebook.net
-#fbcdn.net
-#cdn.fbsbx.com
-#edge-mqtt.facebook.com
-#0-edge-chat.facebook.com
-#1-edge-chat.facebook.com
-#2-edge-chat.facebook.com
-#3-edge-chat.facebook.com
-#4-edge-chat.facebook.com
-#5-edge-chat.facebook.com
-#6-edge-chat.facebook.com
-#edge-chat.facebook.com
-#mqtt-mini.facebook.com
-
-# GeForce Experience
-events.gfe.nvidia.com
-gfwsl.geforce.com
-
-# Images not loading on aliexpress.com (thx Pooh!)
-#ae01.alicdn.com
-
-# Netflix - Domains needed for netlix to work correctly
-api-global.netflix.com
-appboot.netflix.com
-secure.netflix.com
-
-# Nvidia updates
-ota-downloads.nvidia.com
-
-# Samsung TV's Amazon Prime Video app
-time.samsungcloudsolution.com
-
-# Samsung smart TV's network issue
-cdn.samsungcloudsolution.com
-
-# Spotify premium
-mobile-ap.spotify.com
-apresolve.spotify.com
-upgrade.scdn.com
-market.spotify.com
+s.ytimg.com
 spclient.wg.spotify.com
-audio-ake.spotify.com.edgesuite.net
-
-# Adobe licence verification endpoints
-#lm.licenses.adobe.com
-#activate.adobe.com
+title.auth.xboxlive.com
+title.mgt.xboxlive.com
+xbox.ipv6.microsoft.com
+xboxexperiencesprod.experimentation.xboxlive.com
+xflight.xboxlive.com
+xkms.xboxlive.com
+xsts.auth.xboxlive.com
